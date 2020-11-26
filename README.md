@@ -1,4 +1,4 @@
-# @lianpf/monaco-editor-vue
+# @lianpf/js-utils
 
 > [Monaco Editor](https://github.com/lianpf/monaco-editor-vue) for Vue.
 
